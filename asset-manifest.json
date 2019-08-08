@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/smtgames/static/css/main.aade8d04.chunk.css",
+    "main.css": "/smtgames/static/css/main.15f11fd6.chunk.css",
     "main.js": "/smtgames/static/js/main.80247612.chunk.js",
     "main.js.map": "/smtgames/static/js/main.80247612.chunk.js.map",
     "runtime~main.js": "/smtgames/static/js/runtime~main.af5fde56.js",
@@ -8,9 +8,9 @@
     "static/js/2.1883a042.chunk.js": "/smtgames/static/js/2.1883a042.chunk.js",
     "static/js/2.1883a042.chunk.js.map": "/smtgames/static/js/2.1883a042.chunk.js.map",
     "index.html": "/smtgames/index.html",
-    "precache-manifest.54e496c19e9574a6df3a4d6697b13fa0.js": "/smtgames/precache-manifest.54e496c19e9574a6df3a4d6697b13fa0.js",
+    "precache-manifest.d6e2872cfd19ca2eebd00b728619a057.js": "/smtgames/precache-manifest.d6e2872cfd19ca2eebd00b728619a057.js",
     "service-worker.js": "/smtgames/service-worker.js",
-    "static/css/main.aade8d04.chunk.css.map": "/smtgames/static/css/main.aade8d04.chunk.css.map",
+    "static/css/main.15f11fd6.chunk.css.map": "/smtgames/static/css/main.15f11fd6.chunk.css.map",
     "static/media/ddsmt.png": "/smtgames/static/media/ddsmt.0e69ebc7.png",
     "static/media/ddsmtii.png": "/smtgames/static/media/ddsmtii.c1a71515.png",
     "static/media/smt.jpg": "/smtgames/static/media/smt.04d7dc82.jpg",

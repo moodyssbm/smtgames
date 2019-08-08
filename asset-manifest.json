@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/smtgames/static/css/main.2cce8147.chunk.css",
-    "main.js": "/smtgames/static/js/main.3c124345.chunk.js",
-    "main.js.map": "/smtgames/static/js/main.3c124345.chunk.js.map",
+    "main.css": "/smtgames/static/css/main.aade8d04.chunk.css",
+    "main.js": "/smtgames/static/js/main.6452b775.chunk.js",
+    "main.js.map": "/smtgames/static/js/main.6452b775.chunk.js.map",
     "runtime~main.js": "/smtgames/static/js/runtime~main.af5fde56.js",
     "runtime~main.js.map": "/smtgames/static/js/runtime~main.af5fde56.js.map",
-    "static/js/2.b41502e9.chunk.js": "/smtgames/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/smtgames/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.1883a042.chunk.js": "/smtgames/static/js/2.1883a042.chunk.js",
+    "static/js/2.1883a042.chunk.js.map": "/smtgames/static/js/2.1883a042.chunk.js.map",
     "index.html": "/smtgames/index.html",
-    "precache-manifest.8f2e22ef3ffaf44fe5243e1c3ff5c12a.js": "/smtgames/precache-manifest.8f2e22ef3ffaf44fe5243e1c3ff5c12a.js",
+    "precache-manifest.9aae6767fcb1736482a9022e88676288.js": "/smtgames/precache-manifest.9aae6767fcb1736482a9022e88676288.js",
     "service-worker.js": "/smtgames/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/smtgames/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/smtgames/static/media/logo.5d5d9eef.svg"
+    "static/css/main.aade8d04.chunk.css.map": "/smtgames/static/css/main.aade8d04.chunk.css.map",
+    "static/media/ddsmt.png": "/smtgames/static/media/ddsmt.0e69ebc7.png",
+    "static/media/ddsmtii.png": "/smtgames/static/media/ddsmtii.c1a71515.png",
+    "static/media/smt.jpg": "/smtgames/static/media/smt.04d7dc82.jpg",
+    "static/media/smtif.jpg": "/smtgames/static/media/smtif.18ef2ea5.jpg",
+    "static/media/smtii.jpg": "/smtgames/static/media/smtii.49dadf17.jpg",
+    "static/media/smtnine.png": "/smtgames/static/media/smtnine.a6aea283.png"
   }
 }
